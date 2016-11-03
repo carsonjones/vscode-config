@@ -175,3 +175,13 @@
 .vs-dark .monaco-workbench>.editor>.content.vertical-layout>.one-editor-silo.editor-three, .vs-dark .monaco-workbench>.editor>.content.vertical-layout>.one-editor-silo.editor-two {
     border-left: 1px solid #2c3c44;
 }
+
+/* Line Numbers */
+.monaco-editor.vs-dark .line-numbers {
+    color: #62747f;
+}
+
+/* Header in file explorer adjustment */
+.monaco-split-view>.split-view-view>.header{
+	margin-top: 8px;
+}
