@@ -49,6 +49,12 @@
 	color: #AAA;
 }
 
+/* Side Bar */
+.vs-dark .monaco-workbench > .activitybar > .content {
+    background-color: #1F1F20;
+    background-color: #556873;
+}
+
 /* Tabs - Size */
 
 .monaco-workbench > .part.editor > .content > .one-editor-silo > .container > .title,
@@ -109,7 +115,7 @@
 }
 
 .vs-dark .monaco-workbench > .part.editor > .content > .one-editor-silo > .container > .title .tabs-container > .tab:not(.active):hover {
-	background-color: #2c2c2c;
+	background-color: #273035;
 }
 
 .vs-dark .monaco-workbench > .part.editor > .content > .one-editor-silo > .container > .title .tabs-container > .tab:not(.active):hover .tab-label {
@@ -117,7 +123,7 @@
 }
 
 .vs-dark .monaco-workbench > .part.editor > .content > .one-editor-silo > .container > .title.tabs {
-	background-color: #151515;
+	background-color: #3c4042;
 }
 
 .vs-dark .monaco-workbench > .part.editor > .content > .one-editor-silo > .container > .title.active .tabs-container > .tab .tab-label a, .vs-dark .monaco-workbench > .part.editor > .content > .one-editor-container > .title.active .title-label a {
