@@ -168,7 +168,8 @@
 
 /* Side bar spacing */
 .monaco-tree .monaco-tree-rows > .monaco-tree-row {
-    margin-top: 8px;
+/*     margin-top: 8px; */
+/* 	disabling for now, breaks too many things */
 }
 
 /* Second Pane Border */
